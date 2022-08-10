@@ -38,4 +38,5 @@ const changeFn = () => {
 
 convBtn.addEventListener('click', convFn);
 resetBtn.addEventListener('click', resetFn);
+
 changeBtn.addEventListener('click', changeFn);
